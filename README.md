@@ -3,7 +3,7 @@
 ## Taller Python 🐍 
 **Autor:** Lorenzo Ramirez Calderon (ID:20550074)
 
-**Docente:** Jhon Jairo Corredor
+**Docente:** John Jairo Corredor
 
 **Objetivo:** Fortalecer las bases de programación en Python mediante el estudio de estructuras de datos, control de flujo, funciones, programación orientada a objetos y visualización de datos.
 
